@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ue study\\unreal projects\\snake\\source\\snake\\snake.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ue study\\unreal projects\\snake\\intermediate\\build\\win64\\snakeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\ue study\\unreal projects\\snake\\intermediate\\build\\win64\\unrealeditor\\development\\snake\\definitions.snake.h",
+            "c:\\ue study\\unreal projects\\snake\\source\\snake\\snake.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

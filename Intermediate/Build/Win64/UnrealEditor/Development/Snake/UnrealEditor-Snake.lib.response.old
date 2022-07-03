@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Snake.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UE Study\Unreal Projects\Snake\Intermediate\Build\Win64\SnakeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\UE Study\Unreal Projects\Snake\Intermediate\Build\Win64\UnrealEditor\Development\Snake\Snake.cpp.obj"
+"C:\UE Study\Unreal Projects\Snake\Intermediate\Build\Win64\UnrealEditor\Development\Snake\SnakeGameModeBase.cpp.obj"
+"C:\UE Study\Unreal Projects\Snake\Intermediate\Build\Win64\UnrealEditor\Development\Snake\Snake.init.gen.cpp.obj"
+"C:\UE Study\Unreal Projects\Snake\Intermediate\Build\Win64\UnrealEditor\Development\Snake\SnakeGameModeBase.gen.cpp.obj"
+"C:\UE Study\Unreal Projects\Snake\Intermediate\Build\Win64\UnrealEditor\Development\Snake\Default.rc2.res"
+/OUT:"C:\UE Study\Unreal Projects\Snake\Intermediate\Build\Win64\UnrealEditor\Development\Snake\UnrealEditor-Snake.lib"

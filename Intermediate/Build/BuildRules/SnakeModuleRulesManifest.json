@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UE Study\\Unreal Projects\\Snake\\Source\\Snake\\Snake.Build.cs",
+		"C:\\UE Study\\Unreal Projects\\Snake\\Source\\Snake.Target.cs",
+		"C:\\UE Study\\Unreal Projects\\Snake\\Source\\SnakeEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.2"
+}

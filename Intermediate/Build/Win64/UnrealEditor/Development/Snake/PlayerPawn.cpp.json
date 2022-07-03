@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ue study\\unreal projects\\snake\\source\\snake\\playerpawn.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ue study\\unreal projects\\snake\\intermediate\\build\\win64\\snakeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\ue study\\unreal projects\\snake\\intermediate\\build\\win64\\unrealeditor\\development\\snake\\definitions.snake.h",
+            "c:\\ue study\\unreal projects\\snake\\source\\snake\\playerpawn.h",
+            "c:\\ue study\\unreal projects\\snake\\intermediate\\build\\win64\\unrealeditor\\inc\\snake\\playerpawn.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

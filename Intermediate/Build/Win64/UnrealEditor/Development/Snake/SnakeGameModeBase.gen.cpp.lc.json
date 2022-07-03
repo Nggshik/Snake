@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ue study\\unreal projects\\snake\\intermediate\\build\\win64\\unrealeditor\\inc\\snake\\snakegamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ue study\\unreal projects\\snake\\intermediate\\build\\win64\\snakeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\ue study\\unreal projects\\snake\\intermediate\\build\\win64\\unrealeditor\\development\\snake\\definitions.snake.h",
+            "c:\\ue study\\unreal projects\\snake\\source\\snake\\snakegamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\ue study\\unreal projects\\snake\\intermediate\\build\\win64\\unrealeditor\\inc\\snake\\snakegamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
